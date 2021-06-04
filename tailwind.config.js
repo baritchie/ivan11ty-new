@@ -11,7 +11,15 @@ module.exports = {
       center: true,
     },
     extend: {
-      colors: {},
+      colors: {        
+        darkblue: '#124559',
+        lightblue: '#598392',
+        green: '#AEC3B0',
+        lightgreen: 'EFF6E0',},
+      fontFamily: {
+        quat: ['Quattrocento', 'serif'],
+        quatsans: ['Quattrocento Sans', 'sans-serif'],
+      },
     },
   },
   variants: {},
